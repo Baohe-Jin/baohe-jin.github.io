@@ -9,9 +9,9 @@ url: "https://samanyougarg.com" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 # Social
-facebook: facebook
+facebook: flyme-jin
 twitter: twitter
-github:  github
+github:  flyme-jin
 
 #Additional Pages
 about: about
