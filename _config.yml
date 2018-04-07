@@ -15,7 +15,7 @@ github:  flyme-jin
 
 #Additional Pages
 about: about
-contact: 18902016110
+联系方式: 18902016110
 privacy-policy: privacy-policy
 
 
@@ -39,7 +39,7 @@ plugins:
 safe: False
 lsi: False
 username: flyme-jin #github username
-repo: flyme-jin.io #github repository
+repo: flyme-jin.github.io #github repository
 branch: master #branch
 relative_source: ../hanuman/ #source directory
 destination: ../hanuman-pages/ #destination directory
