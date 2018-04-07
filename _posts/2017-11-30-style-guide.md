@@ -18,7 +18,7 @@ author: 靳宝合
 
 <h4 id="heading1">从今天开始，我也许会在这上面传每天作业—— 2018-4-7 </h4>
 
-<a href="tencent://message/?uin=2031973359&amp;Site=有事Q我&amp;Menu=yes">   
+<A href="tencent://message/?uin=2031973359&amp;Site=有事Q我&amp;Menu=yes">   
 <img style="border:0px;" src=http://wpa.qq.com/pa?p=1:2031973359:7></a> 
 
 <hr />
