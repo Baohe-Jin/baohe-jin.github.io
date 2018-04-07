@@ -1,10 +1,10 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "hanuman"
+  spec.name          = "flyme-jin"
   spec.version       = "0.4.0"
-  spec.authors       = ["Samanyou Garg"]
-  spec.email         = ["samanyugarg@gmail.com"]
+  spec.authors       = ["靳宝合"]
+  spec.email         = ["flyme-jin@outlook.com"]
 
   spec.summary       = %q{A responsive, lightning-fast Jekyll theme built using AMP (Accelerated Mobile Pages) to speed up your blogs and websites.}
   spec.homepage      = "https://github.com/flyme-jin/flyme-jin.github.io"
