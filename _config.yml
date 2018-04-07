@@ -1,9 +1,9 @@
 # Site settings
 title: 靳宝合
 description: 一个超级大学渣.
-cover: flyme-jin.github.io / assets / images /radhakrishna.jpg
-logo: assets/images/logo.png
-favicon: assets/images/favicon.png
+cover: https://github.com/Flyme-jin/flyme-jin.github.io/blob/master/assets/images/radhakrishna.jpg
+logo: https://github.com/Flyme-jin/flyme-jin.github.io/blob/master/assets/images/logo.png
+favicon: https://github.com/Flyme-jin/flyme-jin.github.io/blob/master/assets/images/favicon.png
 baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://flyme-jin.github.io" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
