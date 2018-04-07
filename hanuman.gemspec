@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["samanyugarg@gmail.com"]
 
   spec.summary       = %q{A responsive, lightning-fast Jekyll theme built using AMP (Accelerated Mobile Pages) to speed up your blogs and websites.}
-  spec.homepage      = "https://github.com/samanyougarg/hanuman"
+  spec.homepage      = "https://github.com/flyme-jin/flyme-jin.github.io"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select do |f|
