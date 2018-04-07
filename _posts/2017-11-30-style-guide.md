@@ -16,8 +16,8 @@ author: 靳宝合
 
 <hr />
 
-<h4 id="heading1">从今天开始，我也许会在这上面传每天作业—— 2018-4-7 1</h1>
-<h4 id="2">这是我的QQ👇</h1>
+<h4 id="heading1">从今天开始，我也许会在这上面传每天作业—— 2018-4-7 1</h4>
+<h4 id="2">这是我的QQ👇</h4>
 <img src="/assets/images/二维码.jpg" width="540"height="720"><img>
 
 
