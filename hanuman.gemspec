@@ -1,13 +1,13 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "flyme-jin"
+  spec.name          = "hanuman"
   spec.version       = "0.4.0"
-  spec.authors       = ["靳宝合"]
-  spec.email         = ["flyme-jin@outlook.com"]
+  spec.authors       = ["Samanyou Garg"]
+  spec.email         = ["samanyugarg@gmail.com"]
 
   spec.summary       = %q{A responsive, lightning-fast Jekyll theme built using AMP (Accelerated Mobile Pages) to speed up your blogs and websites.}
-  spec.homepage      = "https://github.com/flyme-jin/flyme-jin.github.io"
+  spec.homepage      = "https://github.com/samanyougarg/hanuman"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select do |f|
@@ -20,4 +20,3 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "bundler", "~> 1.12"
   spec.add_development_dependency "rake", "~> 12.3"
-end
