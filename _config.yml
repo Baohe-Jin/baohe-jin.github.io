@@ -1,7 +1,7 @@
 # Site settings
 title: 靳宝合
 description: 一个超级大学渣.
-cover: https://github.com/Flyme-jin/flyme-jin.github.io/blob/master/assets/images/radhakrishna.jpg
+cover: flyme-jin.github.io/assets/images/radhakrishna.jpg
 logo: https://github.com/Flyme-jin/flyme-jin.github.io/blob/master/assets/images/logo.png
 favicon: https://github.com/Flyme-jin/flyme-jin.github.io/blob/master/assets/images/favicon.png
 baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
