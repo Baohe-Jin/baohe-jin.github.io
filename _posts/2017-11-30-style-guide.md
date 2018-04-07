@@ -1,13 +1,13 @@
 ---
 layout: post
 cover: 'assets/images/shiva.jpg'
-title: Style Guide
+title: 自我介绍
 date: 2017-11-30 04:00:00
 tags: guide
 author: hanuman
 ---
 
-<p>This shows how you can use html styling to achieve your hopes.</p>
+<p>我叫靳宝合.</p>
 
 
 <p>Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.</p>
