@@ -15,9 +15,20 @@ author: 靳宝合
 <hr />
 
 <h4 id="heading1">从今天开始，我也许会在这上面传每天作业—— 2018-4-7 </h4>
-
-<A href="tencent://message/?uin=2031973359&amp;Site=有事Q我&amp;Menu=yes">   
-<img style="border:0px;" src=http://wpa.qq.com/pa?p=1:2031973359:7></a> 
-
+<!DOCTYPE HTML>  
+<html>  
+    <head>  
+             
+        <meta charset="UTF-8">  
+        <meta name="viewport"  
+            content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">  
+             
+        <title>QQ Test</title>  
+    </head>  
+    <body>  
+        <a href="tencent://message/?uin=输入QQ号&Site=http://vps.shuidazhe.com&Menu=yes">PC版</a>     
+        <a href="mqqwpa://im/chat?chat_type=wpa&uin=输入QQ号&version=1&src_type=web&web_src=oicqzone.com">移动版</a>  
+    </body>  
+</html>  
 <hr />
 <h4 id="3">2018</h4>
