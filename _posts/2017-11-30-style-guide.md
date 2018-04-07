@@ -18,7 +18,7 @@ author: 靳宝合
 
 <h1 id="heading1">从今天开始，我也许会在这上面传每天作业—— 2018-4-7 1</h1>
 <h1 id="2">这是我的QQ👇</h1>
-<img src="/assets/images/二维码.jpg" width="540"height="720"><img>
+<img src="flyme-jin.github.io/assets/images/二维码.jpg" width="540"height="720"><img>
 
 
 <hr />
