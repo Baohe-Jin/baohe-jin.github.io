@@ -17,7 +17,7 @@ author: 靳宝合
 <h4 id="heading1">从今天开始，我也许会在这上面传每天作业—— 2018-4-7 </h4>
 
 <h4 id="2">点击下列链索以QQ</h4> 
-<img src="" width="540"height="720"><img>
+<img src="/_posts/images/二维码.jpg" width="540"height="720"><img>
 
 
 <hr />
